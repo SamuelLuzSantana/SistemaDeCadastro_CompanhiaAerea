@@ -1,0 +1,16 @@
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\obj\Debug\net5.0\Agencia aerea.csprojAssemblyReference.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\obj\Debug\net5.0\Agencia aerea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\obj\Debug\net5.0\Agencia aerea.AssemblyInfoInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\obj\Debug\net5.0\Agencia aerea.AssemblyInfo.cs
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\obj\Debug\net5.0\Agencia aerea.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\bin\Debug\net5.0\Agencia aerea.exe
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\bin\Debug\net5.0\Agencia aerea.deps.json
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\bin\Debug\net5.0\Agencia aerea.runtimeconfig.json
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\bin\Debug\net5.0\Agencia aerea.runtimeconfig.dev.json
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\bin\Debug\net5.0\Agencia aerea.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\bin\Debug\net5.0\ref\Agencia aerea.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\bin\Debug\net5.0\Agencia aerea.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\obj\Debug\net5.0\Agencia aerea.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\obj\Debug\net5.0\ref\Agencia aerea.dll
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\obj\Debug\net5.0\Agencia aerea.pdb
+C:\Users\CASSIA\Documents\SENAI\C#\Agencia aerea\obj\Debug\net5.0\Agencia aerea.genruntimeconfig.cache
